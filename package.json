@@ -1,0 +1,25 @@
+{
+  "name": "naruto-cli-quiz-app",
+  "version": "1.0.0",
+  "description": "markTwo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajashree23/naruto-cli-quiz-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "chalk": "^4.1.2",
+    "node-fetch": "^3.2.6",
+    "readline-sync": "^1.4.10"
+  },
+  "bugs": {
+    "url": "https://github.com/rajashree23/naruto-cli-quiz-app/issues"
+  },
+  "homepage": "https://github.com/rajashree23/naruto-cli-quiz-app#readme"
+}
