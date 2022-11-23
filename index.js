@@ -43,6 +43,14 @@ var questions = [
 var torchbearers=[{
   name:"Rajashree",
   score:"5"
+},
+{
+  name:"Agni",
+  score:"5"
+},
+{
+  name:"Arka",
+  score:"4"
 }]
 
 function answerCheck(question, answer, options) {
