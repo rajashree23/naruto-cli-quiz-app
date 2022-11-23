@@ -96,7 +96,7 @@ function finalScore(){
 
   console.log("Feel free to send me your score so that I'd update my WhoKnowsNarutoWell leaderboard ;)!")
 
-  torchbearers.map(score => console.log("Leaderboard\n"+score.name, ":", score.score));
+  torchbearers.map(score => console.log(score.name, ":", score.score));
   
 }
 
